@@ -8,7 +8,7 @@ Repo: https://github.com/zesty-io/plate-fixie
 
 
 # Description
-Fixie features a full-page 3-image slider, a left-fixed navigation menu, a bottom right descriptive text box, and 4 pre-loaded pages: blog, contact, search, about.
+Fixie features a full-page multi-image slider, a left-fixed navigation menu, a bottom right descriptive text box, and 4 pre-loaded pages: blog, contact, search, about.
 Although these pages are pre-loaded, please note that all Zesty.io templates are completely customizable.
 
 # Zesty.io Workflow
